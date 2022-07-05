@@ -14,11 +14,11 @@ const createRoutes = require("./routes/create");
 const searchRoutes = require("./routes/search");
 const profileRoutes = require("./routes/profile");
 
-const req = require("express/lib/request");
-const MONGODB_URI = "mongodb://localhost:27017/collegeApp";
+// const req = require("express/lib/request");
+// const MONGODB_URI = "mongodb://localhost:27017/collegeApp";
 const port = process.env.PORT || 3001;
 
-const store = new MongoDBStore({ uri: MONGODB_URI, collection: "sessions" });
+// const store = new MongoDBStore({ uri: MONGODB_URI, collection: "sessions" });
 
 let csrfProtection = csrf();
 app.use(bodyParser.urlencoded({ extended: false }));
