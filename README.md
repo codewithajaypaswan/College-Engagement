@@ -11,8 +11,7 @@ students can grab those opportunities and will get experience of interview proce
 
 
 ## Screenshots
-![CE-1](https://user-images.githubusercontent.com/63578169/171345594-d201702e-e150-4fc4-bab2-f61f3c639867.png)
-![CE-3](https://user-images.githubusercontent.com/63578169/171345742-3640efdd-04fd-4349-9d3f-ec206113c19a.png)
-![CE-4](https://user-images.githubusercontent.com/63578169/171345788-e2a6f481-56b3-4688-b594-a9ef94d31309.png)
-![CE-5](https://user-images.githubusercontent.com/63578169/171345836-88401e7f-2599-4c61-a28d-bcbab6ae616d.png)
-![CE-2](https://user-images.githubusercontent.com/63578169/171345678-7be8b08b-bee5-416a-b4ed-4d8488372831.png)
+![CE-1](https://user-images.githubusercontent.com/60291173/177271834-b9c4801e-fef4-45f0-858d-ae770de1c854.png)
+![CE-3](https://user-images.githubusercontent.com/60291173/177271851-ac80a325-25dd-4bf4-a078-a7dfd43b472b.png)
+![CE-4](https://user-images.githubusercontent.com/60291173/177272041-2527f683-4f6f-431b-a0c0-c4d6b014925d.png)
+![CE-5](https://user-images.githubusercontent.com/60291173/177272137-de5404d6-1deb-4f11-8dcd-bb5958a3d637.png)
