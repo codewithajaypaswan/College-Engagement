@@ -1,8 +1,8 @@
 # College- Engagement- App
-> A web application where college students can engage to each other by posting blogs
-related to the technical things or software related
-> Students can also share their interview experience and also post any job opening notices , so other
-students can grab those opportunities and will get experience of interview process of companies
+• Created a web application where college students can engage with each other by posting blogs, notices, and 
+interview experiences
+• Student can post job opening notices and experiences to increase change of better placements
+• Login User can perform all the CRUD (Create Read Update Delete) operations 
 
 ## Techstack Used
 - Javascript
