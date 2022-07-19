@@ -1,8 +1,8 @@
 # College- Engagement- App
-• Created a web application where college students can engage with each other by posting blogs, notices, and 
+- Created a web application where college students can engage with each other by posting blogs, notices, and 
 interview experiences
-• Student can post job opening notices and experiences to increase change of better placements
-• Login User can perform all the CRUD (Create Read Update Delete) operations 
+- Student can post job opening notices and experiences to increase change of better placements
+- Login User can perform all the CRUD (Create Read Update Delete) operations
 
 ## Techstack Used
 - Javascript
